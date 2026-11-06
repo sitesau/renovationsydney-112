@@ -1,0 +1,22 @@
+{
+  "wheel_id": 768,
+  "structure": "umbrella",
+  "slug": "renovationsydney-112",
+  "project": "renovation-builders-sydney-beginner-guide-98780330a51f78e0b8066",
+  "parent_t1_ref": "renovationsydney-155",
+  "node_role": "feeder",
+  "money_target": "renovationsydney.com.au",
+  "primary_kw": "renovation builders sydney beginner guide",
+  "intended_url": "https://sitesau.github.io/renovationsydney-112/",
+  "tier": "T2",
+  "writeback_nonce": "8c6710233118c7ce",
+  "links": [
+    {
+      "target_url": "http://renovation-builders-sydney-feb176b4f9b37821b5eb3a341bbef1bacdb0.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "Renovation Builders Sydney: Planning Your Project",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
